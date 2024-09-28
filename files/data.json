@@ -1,0 +1,419 @@
+[
+    {
+      "prompt": "Erasmus programına nasıl başvurabilirim?",
+      "completion": "Bir öğrencinin uluslararası öğrenim deneyimi yaşamak için Avrupa Birliği'nin Erasmus programına katılmak istediği durumda nasıl başvuracağını öğrenmek istediği bir sorudur. Bu soru, öğrencinin Erasmus programına katılmak için gerekli belgeleri, başvuru sürecini ve başvuru tarihlerini anlamasına yardımcı olur. Ayrıca, öğrencilerin hedefledikleri ülkede hangi üniversitelerde veya kurumlarda eğitim alabileceklerini ve programın sağladığı destek ve avantajları da öğrenmelerine yardımcı olabilir. Bu soru, uluslararası öğrenim deneyimi yaşamak isteyen öğrencilerin akademik ve kişisel hedeflerine ulaşmalarına yardımcı olabilir."
+    },
+    {
+      "prompt": "Akademik danışmanım kimdir?",
+      "completion": "Akademik danışmanınızı Öğrenci Bilgi Sistemi (OBS) üzerinden öğrenebilirsiniz."
+    },
+    {
+      "prompt": "Akademik danışmanımla nasıl iletişime geçebilirim?",
+      "completion": "Akademik danışmanınızı Öğrenci Bilgi Sistemi (OBS) üzerinden öğrenebilirsiniz."
+    },
+    {
+      "prompt": "Ders kayıt sırasında hangi dersleri seçmeliyim?",
+      "completion": "Ders kayıt sırasında sistemde önerilen ve akademik danışmanınızın söylediği dersleri seçmelisiniz."
+    },
+    {
+      "prompt": "Akademik transkript nasıl alabilirim?",
+      "completion": "Transkript belgenizi Öğrenci Bilgi Sistemi (OBS) üzerinden alabilirsiniz."
+    },
+    {
+      "prompt": "Mezuniyet şartları nelerdir?",
+      "completion": "Bir öğrencinin belirli bir akademik programı tamamlayıp mezun olabilmesi için gereken koşulları öğrenmek istediği bir sorudur. Bu şartlar genellikle belirli bir kredi sayısı, belli bir not ortalaması, belirli dersleri veya ders gruplarını tamamlama gerekliliği gibi akademik gereksinimleri içerir. Ayrıca, bazı programlar staj veya proje gibi pratik deneyimleri veya yeterlilik sınavlarını da gerektirebilir. Mezuniyet şartları ayrıca öğrencilerin genel eğitim gereksinimlerini ve özel program gereksinimlerini de içerebilir. Bu soru, öğrencilerin mezuniyet için gereken adımları ve şartları anlamalarına yardımcı olur ve akademik hedeflerine ulaşmak için hangi yolları izlemeleri gerektiğini belirler."
+    },
+    {
+      "prompt": "Üniversitenin kütüphanesi hangi saatler arasında açık?",
+      "completion": "Üniversitenin kütüphanesi, kütüphane yönetimin belirlediği güncel saatler arasında açıktır."
+    },
+    {
+      "prompt": "Öğrenci kulüplerine nasıl katılabilirim?",
+      "completion": "Öğrenci kulüplerinin iletişim kanaları ile iletişime geçip katılabilirsiniz."
+    },
+    {
+      "prompt": "Kampüste spor olanakları nelerdir?",
+      "completion": "Bir öğrencinin üniversite kampüsünde mevcut olan spor tesisleri, aktiviteler ve spor kulüpleri hakkında bilgi almak istediği bir sorudur. Bu, öğrencinin fiziksel sağlığını korumak, spor yapmak için uygun alanları bulmak veya belirli spor etkinliklerine katılmak istediği durumlarda kullanılır. Spor olanakları genellikle spor salonları, yüzme havuzları, tenis kortları, spor sahaları, fitness merkezleri, koşu parkurları ve grup egzersiz dersleri gibi çeşitli tesisler ve aktiviteleri içerebilir. Ayrıca, öğrencilerin kampüs içinde veya dışında spor yapan öğrenci kulüplerine katılma seçenekleri de olabilir. Bu soru, öğrencilere kampüs yaşamını zenginleştirmek, sağlıklı bir yaşam tarzını teşvik etmek ve stresi azaltmak için uygun spor olanaklarını bulmalarına yardımcı olur."
+    },
+    {
+      "prompt": "Yemekhane nerede ve hangi saatler arasında açık?",
+      "completion": "Bir öğrencinin üniversite kampüsünde yemekhane bulunup bulunmadığını, yemekhanenin konumunu ve açılış saatlerini öğrenmek istediği bir sorudur. Bu soru, öğrencilerin yemekhane hizmetlerinden faydalanmak ve kampüs içinde yemek yeme planlarını düzenlemek için önemlidir. Yemekhane genellikle öğrenci konutlarına veya ana kampüs binalarına yakın bir yerde bulunur ve öğrencilere günlük yemek servisi sağlar. Açılış saatleri genellikle sabah kahvaltısından akşam yemeğine kadar olan süreyi kapsar, ancak kampüs ve yemekhane türüne göre değişebilir. Bu soru, öğrencilere yemekhane hizmetlerinden nasıl yararlanacaklarını ve günlük beslenme ihtiyaçlarını nasıl karşılayacaklarını anlamalarına yardımcı olur."
+    },
+    {
+      "prompt": "Üniversitenin sağlık merkezi nerede ve hangi hizmetleri sunuyor?",
+      "completion": "Bir öğrencinin üniversite kampüsünde sağlık hizmetleri sunan bir merkezin varlığını ve bu merkezin konumunu, sunduğu hizmetleri ve çalışma saatlerini öğrenmek istediği bir sorudur. Bu soru, öğrencilerin sağlık sorunlarıyla başa çıkmak, rutin sağlık kontrolleri yapmak veya acil durumlarda tıbbi yardım almak için nereye gidebileceklerini öğrenmelerine yardımcı olur. Üniversite sağlık merkezleri genellikle genel muayene, acil tıbbi yardım, aşılar, reçeteli ilaçlar, danışmanlık hizmetleri ve cinsel sağlık hizmetleri gibi çeşitli sağlık hizmetlerini sunar. Ayrıca, bazı merkezler psikolojik danışmanlık, diş hekimliği ve diğer uzman sağlık hizmetlerini de sunabilir. Bu soru, öğrencilere sağlık ihtiyaçlarını karşılamak için kampüs içindeki sağlık kaynaklarını nasıl kullanacaklarını öğrenmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Burs ve kredi olanakları hakkında bilgi alabilir miyim?",
+      "completion": "Bir öğrencinin üniversite eğitimi için maddi destek sağlayabilecek farklı finansal yardım programları hakkında bilgi almak istediği bir sorudur. Bu soru, öğrencinin eğitim masraflarını karşılamak için burs, kredi veya diğer mali yardım seçeneklerini araştırdığı bir durumda kullanılır. Burslar, genellikle akademik başarıya, finansal ihtiyaca veya belirli bir alanda liderlik veya yeteneklere dayanarak verilirken, krediler genellikle geri ödenmesi gereken finansal yardımlardır. Bu soru, öğrencilere eğitim maliyetlerini azaltmak ve finansal yükü hafifletmek için mevcut olan fırsatları keşfetmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Yurt başvuruları ne zaman yapılıyor?",
+      "completion": "Bir öğrencinin üniversitede yurt konaklaması için başvuru yapabileceği zamanı öğrenmek istediği bir sorudur. Bu soru, öğrencinin gelecek akademik yıl veya dönem için konaklama ihtiyaçlarını planlaması gerektiğinde ortaya çıkar. Yurt başvurularının zamanlaması genellikle üniversite veya kolejdeki öğrenci konutlarının doluluk oranına, öğrenci başvuru sayısına ve kurumun belirlediği başvuru süresine bağlı olarak değişebilir. Öğrenciler genellikle yurt başvurularını kayıt dönemi öncesinde veya dönem başlamadan önce belirli bir süre içinde yaparlar. Bu soru, öğrencilere yurt konaklama planlarını yapmak ve gereken başvuru sürelerini kaçırmamak için zamanında hareket etmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Üniversitenin kablosuz internet şifresi nedir?",
+      "completion": "Bir öğrencinin üniversite kampüsünde kablosuz internete erişmek için gereken şifreyi öğrenmek istediği bir sorudur. Bu soru, öğrencinin kampüs genelinde internete erişim sağlamak ve akademik çalışmalarını yapmak veya diğer çevrimiçi aktiviteleri gerçekleştirmek için gerekli olan bilgiyi öğrenmek istediği zaman kullanılır. Kablosuz internet şifresi genellikle üniversitenin bilgi teknolojileri departmanı veya kampüs yönetimi tarafından sağlanır ve öğrencilere kullanım kolaylığı ve güvenlik sağlamak için düzenli olarak güncellenir. Bu soru, öğrencilere kampüs içindeki internete erişim sağlamak için gerekli olan bilgiyi öğrenmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Öğrenci e-posta adresimi nasıl aktif hale getirebilirim?",
+      "completion": "Bir öğrencinin üniversite tarafından sağlanan öğrenci e-posta hesabını etkinleştirmek ve kullanılabilir hale getirmek istediği bir sorudur. Bu soru, öğrencinin kampüs içi iletişim için gereken e-posta hesabını nasıl oluşturacağını ve etkinleştireceğini öğrenmek istediği bir durumda kullanılır. Öğrenci e-posta hesapları genellikle üniversitenin bilgi teknolojileri departmanı veya kampüs yönetimi tarafından sağlanır ve öğrencilere ders duyuruları, akademik bilgiler, etkinlikler ve diğer önemli iletiler için kullanılır. Bu soru, öğrencilere kampüs içindeki iletişim kanallarını etkinleştirmek ve güncel bilgilerden haberdar olmak için gerekli adımları anlamalarına yardımcı olur."
+    },
+    {
+      "prompt": "Öğrenci Bilgi Sistemine (OBS) nasıl giriş yapabilirim?",
+      "completion": "Bir öğrencinin üniversite tarafından sağlanan Öğrenci Bilgi Sistemi veya Öğrenci İşleri Sistemi gibi çevrimiçi platformlara erişim sağlamak istediği bir sorudur. Bu soru, öğrencinin ders kaydı, notlar, akademik takvim, mali işler ve diğer öğrenci bilgilerine erişmek veya güncellemek için gerekli olan adımları öğrenmek istediği zaman kullanılır. Öğrenci Bilgi Sistemine genellikle öğrencilere sağlanan kullanıcı adı ve şifre ile erişim sağlanır. Bu bilgileri öğrenciye sağlayan genellikle üniversitenin bilgi teknolojileri departmanı veya öğrenci işleri birimi olabilir. Bu soru, öğrencilere akademik ve kişisel bilgilerini yönetmek için gerekli olan çevrimiçi platforma erişim sağlama konusunda rehberlik sağlar."
+    },
+    {
+      "prompt": "Yazılım Mühendisliği laboratuvarları nerede ve ne zaman açık?",
+      "completion": "Bir öğrencinin üniversitede Yazılım Mühendisliği laboratuvarlarını bulmak ve kullanım saatleri hakkında bilgi almak istediği bir sorudur. Bu soru, öğrencinin programlama, yazılım geliştirme veya diğer teknik uygulamalar için laboratuvar kaynaklarını nasıl kullanabileceğini öğrenmek istediği bir durumda kullanılır. Yazılım Mühendisliği laboratuvarları genellikle bilgisayar laboratuvarları veya teknoloji merkezlerinde bulunur. Laboratuvarların açık olduğu saatler genellikle üniversitenin akademik takvimine ve laboratuvarın kapasitesine bağlı olarak değişir. Bu bilgiler genellikle üniversitenin web sitesinde veya bilgi teknolojileri departmanı tarafından sağlanır. Bu soru, öğrencilere programlama becerilerini geliştirmek ve yazılım projeleri üzerinde çalışmak için uygun zaman ve kaynaklara nasıl erişebileceklerini öğrenmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Bölüm başkanının iletişim bilgileri nedir?",
+      "completion": "Bir öğrencinin kendi bölüm başkanıyla iletişime geçmek ve akademik veya idari konularda bilgi almak istediği bir sorudur. Bu soru, öğrencinin bölüm başkanının ofis adresi, e-posta adresi veya telefon numarası gibi iletişim bilgilerini öğrenmek istediği bir durumda kullanılır. Öğrenciler genellikle bölüm başkanlarıyla ders seçimi, akademik danışmanlık, mezuniyet gereksinimleri, araştırma fırsatları veya diğer öğrenci konuları hakkında iletişime geçerler. Bölüm başkanının iletişim bilgileri genellikle bölüm web sitesinde veya üniversite rehberinde bulunabilir. Bu bilgiler ayrıca bölüm ofisinde veya bölümün ilgili personeli tarafından da sağlanabilir. Bu soru, öğrencilere bölüm başkanlarıyla iletişim kurma ve akademik veya idari konularda rehberlik almak için gerekli olan iletişim bilgilerini öğrenmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Ders kaydı işlemleri ne zaman yapılıyor?",
+      "completion": "Bir öğrencinin üniversite de bir sonraki akademik dönem veya yıl için ders kaydı işlemlerini ne zaman tamamlaması gerektiğini öğrenmek istediği bir sorudur. Bu soru, öğrencinin ders seçimini yapması, ders programını düzenlemesi ve akademik hedeflerine uygun dersleri belirlemesi gereken bir zamanda ortaya çıkar. Ders kaydı işlemlerinin zamanlaması genellikle üniversitenin akademik takvimine bağlıdır ve ders kaydı için belirlenen açık olan süre içinde tamamlanmalıdır. Bu süre genellikle birkaç gün veya hafta sürebilir ve ders kaydı işlemlerini tamamlamak için belirli bir zaman dilimi içinde başvuruda bulunmak önemlidir. Bu soru, öğrencilere ders kaydı işlemlerini zamanında tamamlamaları ve istedikleri dersleri almak için gereken adımları atma konusunda rehberlik sağlar."
+    },
+    {
+      "prompt": "Öğrenci kimlik kartımı kaybettim, ne yapmalıyım?",
+      "completion": "Bir öğrencinin üniversitede öğrenci kimlik kartını kaybettiğinde ne yapması gerektiğini öğrenmek istediği bir sorudur. Bu soru, öğrencinin kayıp kimlik kartını yeniden çıkarmak veya geçici bir çözüm bulmak için gereken adımları öğrenmek istediği bir durumda kullanılır. Öğrenci kimlik kartları genellikle kampüs içinde öğrenci hizmetleri birimi veya bilgi teknolojileri departmanı tarafından yeniden düzenlenebilir veya değiştirilebilir. Bu süreç genellikle kimlik kartı ücreti ödenmesi ve kimlik kartı için gerekli olan belgelerin sunulması gerektirir. Ayrıca, öğrencilerin kimlik kartlarını kaybettiklerinde, kartın kullanılamaz hale gelmesini önlemek için kartın kayıp olduğunu bildirmeleri ve gerekirse kampüs güvenlik birimiyle iletişime geçmeleri önemlidir. Bu soru, öğrencilere kayıp kimlik kartlarını yeniden çıkarmak için gereken adımları ve kampüs içindeki ilgili departmanlarla nasıl iletişim kuracaklarını öğrenmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Yazılım Mühendisliği bölümü mezunlarının genel olarak neler yapabiliyor ve ne kadar para kazanıyorlar?",
+      "completion": "Bir kişinin Yazılım Mühendisliği bölümünden mezun olanların iş olanakları ve potansiyel gelir düzeyleri hakkında bilgi almak istediği bir sorudur. Bu soru, kişinin bu alandaki kariyer seçenekleri hakkında bilgi edinmek, mezun olduktan sonra hangi işlerde çalışabileceklerini ve ne kadar kazanç sağlayabileceklerini öğrenmek için kullanılır. Yazılım Mühendisliği mezunları genellikle yazılım geliştirme, sistem analizi, proje yönetimi, veri bilimi, siber güvenlik ve benzeri alanlarda çalışabilirler. Kazançlar, ülkeye, sektöre, iş deneyimine ve diğer faktörlere bağlı olarak değişir. Bu bilgi, öğrencilere potansiyel kariyer yolları ve maaş beklentileri hakkında genel bir fikir edinmelerine yardımcı olur."
+    },
+    {
+      "prompt": "Yazılım Mühendisliği ders programı nedir?",
+      "completion": "Güncel ders programını bölüm web sitesindeki duyurular bölümündeki en güncel ders programı duyurusuna ulaşarak görebilirsiniz."
+    },
+    {
+      "prompt": "Dersin içeriği hakkında bilgiye nasıl ulaşabilirim?",
+      "completion": "Bir dersin içeriği hakkındaki bilgiye ilgili dersin izlencesinden ulaşabilirsiniz."
+    },
+    {
+      "prompt": "Dersin ön koşulları nelerdir?",
+      "completion": "Bir dersin ön koşulları hakkındaki bilgiye ilgili dersin izlencesinden ulaşabilirsiniz."
+    },
+    {
+      "prompt": "Dersi kim veriyor?",
+      "completion": "Dersi veren öğretim üyesi veya öğretim görevlisini öğrenmek için lütfen web sitesindeki güncel ders programına bakınız."
+    },
+    {
+      "prompt": "Seçmeli dersler hangi tarihlerde açılacak?",
+      "completion": "Açılan seçmeli dersleri, ders kayıt tarihleri içerisinde Öğrenci Bilgi Sistemi üzerindeki 'Ders Kayıt' bölümünden ulaşabilirsiniz."
+    },
+    {
+      "prompt": "Staj yapma adımları nelerdir?",
+      "completion": "Mesleki Uygulama (Staj) ile ilgili detaylı bilgiye bölümün resmi web sayfasından ulaşabilirsiniz."
+    },
+    {
+      "prompt": "Çift anadal veya yandal programları nasıl seçebilirim?",
+      "completion": "Bir öğrencinin ana akademik programına ek olarak başka bir alanda da eğitim almak veya uzmanlaşmak istediği durumda hangi bölümleri veya programları seçebileceğini öğrenmek için bölümün web sayfasındaki ilgili duyurulara bakabilirsiniz."
+    },
+    {
+        "prompt": "Yazılım sektöründe iş bulmak için nelere dikkat etmek gerekir?",
+        "completion": "Yazılım sektöründe iş bulmak için dikkat edilmesi gereken bazı faktörler arasında şunlar bulunabilir: Yetenekler ve Beceriler: Yazılım geliştirme, programlama dilleri, veritabanı yönetimi ve diğer teknik yeteneklerinizi geliştirmek önemlidir. Eğitim ve Sertifikasyonlar: İlgili alanda eğitim almak veya sertifikalara sahip olmak, iş bulma sürecinde avantaj sağlayabilir. Portföy: Gerçek veya hayali projeler üzerinde çalışarak bir portföy oluşturmak ve bu portföyü potansiyel işverenlere göstermek önemlidir. Ağ Oluşturma: Yazılım topluluğuna katılarak, iş bulma ağınızı genişletmek ve endüstrideki profesyonellerle bağlantı kurmak faydalı olabilir. İş İlanlarını Araştırma: İlgilendiğiniz şirketleri ve pozisyonları araştırarak, ihtiyaçlarınıza ve hedeflerinize en uygun olanları bulmak önemlidir. Sürekli Öğrenme: Teknolojinin hızla değiştiği bir sektörde, yeni teknolojilere ve trendlere açık olmak ve sürekli olarak kendinizi geliştirmek önemlidir."
+      },
+      {
+        "prompt": "Öğrenciler hangi araştırma projelerine katılabilir?",
+        "completion": "Bir öğrencinin üniversitede araştırma fırsatlarını öğrenmek ve katılabileceği araştırma projeleri hakkında bilgi almak istediği bir sorudur. Bu soru, öğrencinin akademik ilgi alanlarına ve kariyer hedeflerine uygun araştırma projelerini bulma ve bu projelere nasıl katılabileceğini anlama isteğiyle ortaya çıkar. Öğrenciler genellikle akademik birimler, bölümler veya araştırma laboratuvarları tarafından sunulan araştırma fırsatlarına katılabilirler. Bu fırsatlar genellikle öğrencilerin belirli bir alanda derinlemesine çalışmalarını, akademik bilgi ve becerilerini geliştirmelerini ve potansiyel olarak yeni keşiflere katkıda bulunmalarını sağlar. Araştırma projeleri genellikle bir fakülte danışmanı veya araştırma mentorunun rehberliğinde yapılır. Öğrencilerin katılabileceği araştırma projeleri, bilim, mühendislik, sosyal bilimler, sanat ve insanlık gibi çeşitli disiplinlerde bulunabilir. Bu soru, öğrencilere kendi ilgi alanlarına ve kariyer hedeflerine uygun araştırma fırsatlarını bulma ve bu projelere nasıl katılabileceklerini öğrenme konusunda rehberlik sağlar."
+      },
+      {
+        "prompt": "Yazılım Mühendisliği lisans Bitirme Projesi için konu önerilerin var mı?",
+        "completion": "Bir öğrencinin üniversite veya kolejdeki bitirme projesi için uygun bir konu seçimi yapmak istediği bir durumda kullanılır. Bu soru, öğrencinin akademik ilgi alanlarına, kariyer hedeflerine ve mevcut beceri düzeyine uygun bir bitirme projesi konusu bulmak istediği durumlarda ortaya çıkar. Bitirme projesi genellikle öğrencinin lisans veya yüksek lisans programını tamamlamak için gerekli olan son akademik çalışmadır ve genellikle öğrencinin uzmanlık alanında derinlemesine bir araştırma veya uygulamalı bir proje yapmasını gerektirir. Bitirme projesi konuları genellikle öğrencinin danışmanı, öğretim üyeleri veya endüstri uzmanları tarafından önerilir veya onaylanır. Öğrencilere önerilebilecek bitirme projesi konuları, alanlarının gereksinimlerine, mevcut araştırma alanlarına ve endüstri ihtiyaçlarına dayanabilir. Örnek konu önerileri, yeni bir yazılım uygulaması geliştirme, veri analizi, yapay zeka, nesnelerin interneti (IoT), siber güvenlik, çevresel mühendislik veya sosyal bilimlerde bir araştırma çalışması yapma gibi çeşitli alanlarda olabilir. Bu soru, öğrencilere bitirme projesi için uygun bir konu seçiminde rehberlik sağlar ve ilgi alanlarına ve kariyer hedeflerine uygun bir proje geliştirmelerine yardımcı olur."
+      },
+      {
+        "prompt": "Araştırma projelerine nasıl başvurabilirim?",
+        "completion": "Bir öğrencinin üniversite veya kolejdeki araştırma projelerine katılmak istediğinde ne tür adımlar atması gerektiğini öğrenmek istediği bir sorudur. Bu soru, öğrencinin akademik veya mesleki ilgi alanlarını derinleştirmek, araştırma deneyimi kazanmak veya akademik kariyerine başlamak için araştırma projelerine katılmayı hedeflediği bir durumda kullanılır."
+      },
+      {
+        "prompt": "Hangi üniversitelerle öğrenci değişim anlaşması var?",
+        "completion": "Bir öğrencinin kendi üniversitesindeki öğrenci değişim programları hakkında bilgi almak istediği bir sorudur. Bu soru, öğrencinin yurt dışında eğitim almak, farklı kültürleri deneyimlemek ve uluslararası akademik deneyim kazanmak için mevcut olan değişim programları hakkında bilgi edinmek istediği bir durumda kullanılır. Öğrenci değişim anlaşmaları genellikle üniversiteler arasında yapılan anlaşmalarla gerçekleşir. Bu anlaşmalar genellikle öğrenci değişimini kolaylaştırmak, ders kredilerinin transferini sağlamak ve öğrencilerin farklı ülkelerdeki üniversitelerde eğitim almasını teşvik etmek amacıyla yapılır. Öğrenciler genellikle üniversitelerinin uluslararası ilişkiler veya değişim programları ofislerinden veya web sitelerinden mevcut değişim anlaşmaları hakkında bilgi alabilirler. Bu soru, öğrencilere uluslararası öğrenci değişim fırsatlarını araştırma ve başvurma konusunda rehberlik sağlar."
+      },
+      {
+        "prompt": "Erasmus programına başvuru koşulları nelerdir?",
+        "completion": "Bir öğrencinin Erasmus programına katılmak için gereken şartları ve başvuru sürecini öğrenmek istediği bir sorudur. Bu soru, öğrencinin yurt dışında eğitim almak, farklı bir kültürü deneyimlemek ve uluslararası akademik deneyim kazanmak için Erasmus programına katılmayı hedeflediği bir durumda kullanılır."
+      },
+      {
+        "prompt": "Yurtdışında staj yapma imkanları var mı?",
+        "completion": "Bir öğrencinin uluslararası staj fırsatları hakkında bilgi almak ve yurt dışında staj yapma olasılıklarını öğrenmek istediği bir sorudur. Bu soru, öğrencinin uluslararası deneyim kazanmak, farklı kültürleri deneyimlemek ve uluslararası iş deneyimi edinmek için yurtdışında staj yapma fırsatlarını araştırdığı bir durumda kullanılır."
+      },
+      {
+        "prompt": "Kulüplere nasıl üye olabilirim?",
+        "completion": "Bir öğrencinin üniversitede öğrenci kulüplerine katılmak ve sosyal, kültürel veya akademik faaliyetlere katılmak istediği bir sorudur. Bu soru, öğrencinin kampüsteki sosyal ağını genişletmek, yeni insanlarla tanışmak, ilgi alanlarına yönelik etkinliklere katılmak ve liderlik veya organizasyon becerilerini geliştirmek istediği bir durumda kullanılır. Üniversiteler genellikle çeşitli kulüp ve örgütler sunarlar ve öğrencilerin ilgi alanlarına ve ihtiyaçlarına yönelik farklı seçenekler bulunabilir."
+      },
+      {
+        "prompt": "Hangi öğrenci kulüpleri var?",
+        "completion": "Bir öğrencinin üniversitede mevcut olan öğrenci kulüpleri hakkında bilgi almak ve ilgi alanlarına uygun olanları belirlemek istediği bir sorudur. Bu soru, öğrencinin kampüs yaşamını zenginleştirmek, yeni insanlarla tanışmak, ilgi alanlarına yönelik etkinliklere katılmak ve liderlik veya organizasyon becerilerini geliştirmek istediği bir durumda kullanılır. Üniversiteler genellikle çeşitli öğrenci kulüpleri sunarlar, bu kulüpler sosyal, kültürel, akademik, mesleki veya spor odaklı olabilir."
+      },
+      {
+        "prompt": "Yaklaşan etkinlikler hakkında bilgi alabilir miyim?",
+        "completion": "Bir üniversite öğrencisi kampüste düzenlenen etkinliklere katılmak veya bir konferansa katılmak isteyebilir ve bu nedenle önümüzdeki günlerde veya haftalarda gerçekleşecek etkinlikler hakkında bilgi almak isteyebilir. Bu soru, etkinlik takvimlerini kontrol etme, ilgili departmanlarla iletişime geçme veya sosyal medya platformlarını kullanma gibi çeşitli yöntemlerle yanıtlanabilir. İlgili kurum veya organizasyonlar genellikle etkinliklerini duyurmak için web sitelerini, e-posta bültenlerini, sosyal medya hesaplarını veya afişlerini kullanırlar. Bu soru, kişilere yaklaşan etkinlikler hakkında bilgi alarak katılım planlarını düzenleme konusunda yardımcı olur."
+      },
+      {
+        "prompt": "Bölüm hakkındaki duyuruları nereden öğrenebilirim?",
+        "completion": "Bir öğrencinin veya personelin bir okul veya üniversitedeki belirli bir bölümle ilgili güncel duyuruları bulmak istediği durumda kullanılır. Bu duyurular, bölümle ilgili önemli etkinlikler, ders programı değişiklikleri, sınav tarihleri veya özel etkinlikler gibi bilgileri içerebilir. Öğrenciler veya personel bu bilgilere genellikle bölüm web sitesi, duyuru panoları, e-posta listeleri veya akademik danışmanlar aracılığıyla ulaşabilirler. Bu kaynaklar, güncel ve önemli bölüm bilgilerini sağlamak için kullanılır."
+      },
+      {
+        "prompt": "B101-B102-B103-B104 sınıfları veya derslikleri nerededir?",
+        "completion": "Teknoloji Fakültesi B Blok 1. kattadır."
+      },
+      {
+        "prompt": "A303-A304-A305-A306 derslikleri veya sınıfları nerededir?",
+        "completion": "Teknoloji Fakültesi A Blok 3. kattadır."
+      },
+      {
+        "prompt": "A404-A405-A406 derslikleri veya sınıfları nerededir?",
+        "completion": "Teknoloji Fakültesi A Blok 4. kattadır."
+      },
+      {
+        "prompt": "C101-C105 sınıfları veya derslikleri nerededir?",
+        "completion": "Teknoloji Fakültesi C Blok 1. kattadır."
+      },
+      {
+        "prompt": "D101-D105 sınıfları veya derslikleri nerededir?",
+        "completion": "Teknoloji Fakültesi D Blok 1. kattadır."
+      },
+      {
+        "prompt": "A205-A206 derslikleri veya sınıfları nerededir?",
+        "completion": "Teknoloji Fakültesi A Blok 2. kattadır."
+      },
+      {
+        "prompt": "Ders kayıt nedir, nasıl yapılır?",
+        "completion": "Ders kayıt, bir dönemde alınması gereken derslerin Akademik Takvim zamanına uygun olarak alınması demektir. Öğrenci İşleri Bilgi Sistemi’nden (OBS) adresinden giriş yapılarak ders kaydı gerçekleştirilmektedir."
+      },
+      {
+        "prompt": "Akademik Takvim nedir, nereden bulabilirim?",
+        "completion": "Akademik Takvim, öğrencinin ve personelin bir akademik yıl için kullanacağı bir zamanlama rehberidir. Akademik Takvim’e Üniversitenin resmi web sayfasından ulaşabilirsiniz."
+      },
+      {
+        "prompt": "İkinci öğretim öğrencisiyim harç (katkı payı) yatırıyor muyum?",
+        "completion": "İkinci Öğretim öğrencileri harç yatırmaktadır."
+      },
+      {
+        "prompt": "Öğrenci belgesi ve transkripti nerden alabilirim?",
+        "completion": "Öğrenci belgesi e-devlet üzerinden temin edilebilir. Transkript belgesi ise Fırat Üniversitesi Öğrenci İşleri’nden temin edilmektedir."
+      },
+      {
+        "prompt": "Sınav programında ortak derslerin sınavlarını göremiyorum. Nerden bulabilirim?",
+        "completion": "Ortak sınav programı Teknoloji Fakültesi web sayfasında ilan edilmektedir."
+      },
+      {
+        "prompt": "Danışman hocam kim? Nasıl iletişim kurmalıyım?",
+        "completion": "Akademik danışmanınızı Öğrenci Bilgi Sistemi (OBS) üzerinden öğrenebilirsiniz."
+      },
+      {
+        "prompt": "e-Devlet üzerinden kayıt yaptım oldu mu?",
+        "completion": "OBS’ye obs.firat.edu.tr adresine giriş yapabiliyorsanız kayıt olmuşsunuz demektir."
+      },
+      {
+        "prompt": "Uzaktan eğitim sistemine nereden gireceğim?",
+        "completion": "Uzaktan Eğitim (UE) ue.firat.edu.tr adresinde bulunmaktadır. Ders kayıtları tamamlanma sürecinde ya da onaylandıktan sonra girebilirsiniz."
+      },
+      {
+        "prompt": "İsteğe bağlı hazırlık sınıfı seçtim, Yabancı Diller Yüksekokuluna nasıl kayıt olacağım?",
+        "completion": "Fırat Üniversitesi Yabancı Diller Yüksekokulunun resmi web sayfası adresi ydyo.firat.edu.tr dir. Bu sayfadaki duyuruları dikkatlice takip etmelisiniz."
+      },
+      {
+        "prompt": "Öğrenci fotoğrafımı güncelledim, onaylanması için ne yapmam gerek?",
+        "completion": "Öncelikle güncellenen fotoğrafın resmi standartlara uygun olması gerekmektedir. Sonrasında onaylama için Yazılım Mühendisliği Bölüm Sekreterliği ile irtibata geçmeniz gerekmektedir."
+      },
+      {
+        "prompt": "Ders kayıt sırasında Türk Dili seçilmiyor, nasıl seçebilirim?",
+        "completion": "OBS sisteminde ders seçme ekranında Birim olarak “Rektörlük Servis” seçilmeli sonar Program olarak “Rektörlük Servis (Uzaktan Eğt.)” veya “Rektörlük Servis (Uzaktan Eğt.) (İ.Ö.)” seçilerek aramada Türk Dili dersinin bulunabilir."
+      },
+      {
+        "prompt": "Hazırlık öğrencileri harç (katkı payı) yatıracak mı?",
+        "completion": "İster 1.sınıf ister Hazırlık sınıfı olsun Harcı (katkı payı) öncelikle ikinci öğretim (İÖ) öğrencileri yatıracaktır. Örgün öğretim öğrencileri yatırmayacaktır. Ancak örgün öğretim olup ikinci fakültesi için öğrenim görecekler harç yatıracaktır."
+      },
+      {
+        "prompt": "Harç nereden yatırılacaktır?",
+        "completion": "Harç (katkı payı) Ziraat Bankası ATM’lerinden Öğrenci numarası ile yatırılabilmektedir. Harç ile ilgili sorunlarda Fırat Üniversitesi Fon Saymanlığı Birimine başvurmanız gerekmektedir."
+      },
+      {
+        "prompt": "Harcı hangi tarihe kadar yatırmalıyız?",
+        "completion": "Harç (katkı payı) ile ilgili bilgi Fırat Üniversitesi www.firat.edu.tr web sayfasında Akademik Takvimde belirtilmiştir."
+      },
+      {
+        "prompt": "Fırat Üniversitesi Yazılım Mühendisliği UOLP bölümünden bu sene ÖSYM puanı ile Türkçe Yazılım Mühendisliğine yatay geçiş yaptım. 3. sınıfa geçtim fakat OBS üzerinde 1. sınıf olarak görünüyor. Öğrenci İşleri ders intibaklarının Yatay geçiş yapmak için başvuran öğrencilerin Öğrenci İntibak Formları Yazılım Mühendisliği Bölümü Kurulunda görüşülür, düzenlenir ve karar altına alınır. Daha sonra Teknoloji Fakültesi Dekanlığına ve Öğrenci İşleri Daire Başkanlığına iletilir. Süreç bu şekilde takip edilmelidir. Fakülte tarafından yapılması gerekiyor dedi. Şuan ders kayıtları da başladı. Ne yapmamız gerekiyor yardımcı olabilir misiniz?",
+        "completion": "Yatay geçiş yapmak için başvuran öğrencilerin Öğrenci İntibak Formları Yazılım Mühendisliği Bölümü Kurulunda görüşülür, düzenlenir ve karar altına alınır. Daha sonra Teknoloji Fakültesi Dekanlığına ve Öğrenci İşleri Daire Başkanlığına iletilir. Süreç bu şekilde takip edilmelidir."
+      },
+      {
+        "prompt": "Ders seçimi yaparken Algoritma ve Programlamada hata alıyorum nasıl yapacağım yardımcı olur musunuz? (Soruyu soran MTOK öğrencisi)",
+        "completion": "Ders seçim ekranında Program olarak sadece 'Yazılım Mühendisliği' olanı seçiniz, içinde MTOK geçeni seçmeyiniz."
+      },
+      {
+        "prompt": "Ders kayıtlarında, ders seçiminde Yazılım Müh. (MTOK) programındaki öğrenciler “Yazılım Müh.”, Yazılım Müh. (MTOK)(İ.Ö) programındaki öğrenciler ise “Yazılım Müh. (İ.Ö)” programından ders seçimi yapacaklar mı?",
+        "completion": "Evet."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve staj yapılacak firmaları nasıl bulabilirim?",
+        "completion": "Bölümümüz paydaş firmalarına göz atarak anlaşmalı firmalar ile iletişim kurulabilir. Bölümümüzün paydaş firmalarına bölümün resmi web sayfasından erişebilirsiniz."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve staj evraklarına nerden erişebilirim?",
+        "completion": "İşyeri eğitimi ve staj evraklarına bölümün resmi web sayfasından erişebilirsiniz."
+      },
+      {
+        "prompt": "İşyeri eğitimi evraklarından kaç adet çıkarmalıyım?",
+        "completion": "Müstahaklık belgesiyle beraber 1 nüsha defter için öğrenciye, 1 nüsha sigorta girişi için bölüm sekreterliğine, 1 nüsha staja başlamak için şirket sorumlusuna olmak üzere ıslak imzalı toplam 3 nüsha çıkarılmalıdır."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve staj evraklarını en son ne zaman ve kime teslim etmem gerekiyor?",
+        "completion": "İşyeri eğitimi ve staj evrakları onaylandıktan sonra dönem başlangıcından en geç 2 hafta önce bölüm sekreterliğine teslim edilmelidir."
+      },
+      {
+        "prompt": "İşyeri eğitimi hangi tarihler arasında yapılmaktadır?",
+        "completion": "İşyeri eğitimi akademik takvimde belirtilen ders başlangıç ve ders bitiş tarihleri arasında eğitim-öğretim dönemi süresince yapılmaktadır."
+      },
+      {
+        "prompt": "İşyeri eğitiminde öğrencilerin sigortası kim tarafından ödenmektedir?",
+        "completion": "İşyeri eğitiminde öğrencilerin sigortası üniversite tarafından ödenmektedir."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve staj kamu kurum ve kuruluşlarında yapılabilir mi?",
+        "completion": "İşyeri eğitimi ve staj kamu kurum ve kuruluşlarında yapılabilir."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve staj sırasında konaklama ve yeme-içme nasıl karşılanmaktadır?",
+        "completion": "İşyeri eğitimi ve staj süresince konaklama ve yeme-içme öğrenciler tarafından karşılanmaktadır."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve stajda öğrenciye ücret ödeniyor mu?",
+        "completion": "6111 sayılı kanuna göre şirket isterse öğrenciye ücret verebilir ve vergiden muaftır."
+      },
+      {
+        "prompt": "Alttan devam zorunluluğu olan dersim varken işyeri eğitimine gidebilir miyim?",
+        "completion": "Devam zorunluluğu olan ders ile işyeri eğitimi dersi alınamaz."
+      },
+      {
+        "prompt": "İşyeri eğitimi ile en fazla kaç adet ders alabilirim?",
+        "completion": "Öğrenci tüm dersleri vermiş mezun durumunda ise en fazla 4 aksi halde en fazla 3 ders alabilir."
+      },
+      {
+        "prompt": "İşyeri eğitimiyle beraber 4. sınıf dersleri alınabilir mi?",
+        "completion": "Öğrenci ilk kez 4. sınıfı okuyorsa o dönem İşyeri eğitimi ile diğer dönemindeki 4. sınıf derslerini alamaz. Öğrenci 4. sınıfı daha önce okuduysa (okulu uzatmış, 5, 6, veya 7. yılında ise) İşyeri ile 4. sınıfın farklı dönemlerdeki dersler için eşdeğer tutulan dersleri alabilir."
+      },
+      {
+        "prompt": "İşyeri eğitimi dersini hangi dönem alacağım? İstediğim dönem yapabilir miyim?",
+        "completion": "Öğrenci numarası tek olanlar Güz, çift olanlar ise Bahar yarıyılında işyeri eğitimini tamamlayacaklardır."
+      },
+      {
+        "prompt": "İşyeri eğitimi dönem değişikliği (Becayiş) nedir?",
+        "completion": "Ders kayıt kuralları içerisinde yer alan devam zorunluluğu olan ders olması, ders yükü sorunu, çapraza düşme vb. sorunlar hariç dönem değişikliği için herhangi bir mazeret kabul edilmemektedir. Bu sebeplerden ötürü dilekçe ile dönem değişikliği için başvuru yapılmasına gerek yoktur. Ancak bu sebepler dışında dönem değişikliği yapmak isteyen öğrenciler kendi aralarında (ikinci öğretim öğrencileri ikinci öğretim öğrencileri ile, örgün öğretim öğrencileri örgün öğretim öğrencileri ile) danışman hocaları ve İşyeri eğitimi komisyonu tarafından onaylanırsa becayiş yapabileceklerdir."
+      },
+      {
+        "prompt": "Becayiş dilekçesine nasıl ulaşabilirim?",
+        "completion": "Becayiş dilekçesine bölümün resmi web sayfasından ulaşabilirsiniz."
+      },
+      {
+        "prompt": "Becayiş dilekçesini kime vereceğim?",
+        "completion": "Dilekçeyi her iki öğrencinin de doldurması gerekmekte olup dilekçeler aynı anda her öğrenci için 2 nüsha halinde (1 nüsha işyeri eğitimi defterine, 1 nüsha danışman hocaya) teslim edilecektir."
+      },
+      {
+        "prompt": "İşyeri eğitimini yapması gereken dönemde almayan ve becayiş yapmayan öğrencinin ders seçimi nasıl olur?",
+        "completion": "İşyeri eğitimini alması gereken dönemde almayan ve becayiş yapmayan öğrenci işyeri eğitimini alıyormuş gibi değerlendirilir ve o dönem en fazla 3 ders alabilir."
+      },
+      {
+        "prompt": "İşletmede işyeri ve staj evraklarına kimler imza atabilir?",
+        "completion": "İşletmede işyeri ve staj belgelerini yazılım mühendisi ve bilgisayar mühendisi imzalamalıdır. İşyeri ve staj yapılacak firmada belirtilen mühendislerden en az birinin bulunması gerekmektedir."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve staj derslerinin sunumları ne zaman yapılır?",
+        "completion": "İşyeri eğitimi ve staj dersi sunumları Final ve Bütünleme haftasında komisyonca belirlenen günlerde yapılmaktadır."
+      },
+      {
+        "prompt": "İşyeri eğitimi kaç kredi ve AKTS’dir?",
+        "completion": "İşyeri eğitimi 13 kredi ve 20 AKTS’dir."
+      },
+      {
+        "prompt": "Stajlar kaç kredi ve AKTS’dir?",
+        "completion": "Stajlar 1 kredi ve 5 AKTS’dir."
+      },
+      {
+        "prompt": "İşyeri eğitimi ve staj notları nasıl belirlenir?",
+        "completion": "İşyeri eğitimi ve staj notlarının belirlenmesinde çeşitli değerlendirme ölçütleri bulunmaktadır. Bu ölçütlere bölümün resmi web sitesinden erişebilirsiniz."
+      },
+      {
+        "prompt": "Nihai işyeri eğitimi ve staj notları nasıl hesaplanır?",
+        "completion": "Nihai işyeri eğitimi ve staj notları hesaplanırken aşağıdaki formül kullanılır; 𝑛𝑖ℎ𝑎𝑖𝑁𝑜𝑡 = 𝑑𝑒𝑓𝑡𝑒𝑟𝑁𝑜𝑡𝑢 ∗ 0.4 + 𝑚ü𝑙𝑎𝑘𝑎𝑡𝑁𝑜𝑡𝑢 ∗ 0.3 + 𝑓𝑖𝑟𝑚𝑎𝑁𝑜𝑡𝑢 ∗ 0.3"
+      },
+      {
+        "prompt": "İşyeri eğitimi kaç gün sürüyor?",
+        "completion": "İşyeri eğitimi bir dönem boyunca 70 iş günü sürmektedir."
+      },
+      {
+        "prompt": "Stajlar kaç gün sürüyor?",
+        "completion": "Stajlar her biri 20 iş günü olmak üzere toplamda 40 iş günü sürmektedir."
+      },
+      {
+        "prompt": "Staj notlarım ne zaman sisteme girilecek?",
+        "completion": "Staj notları dersi seçtiğiniz dönemin sonunda sisteme eklenecektir."
+      },
+      {
+        "prompt": "İşyeri ve staj evraklarını nereye teslim edeceğim?",
+        "completion": "İşyeri eğitimi ve staj evrakları, ilgili komisyonlarca onaylandıktan sonra bölüm sekreterliğine imza karşılığında teslim edilmektedir."
+      },
+      {
+        "prompt": "Stajımı Erasmus ile yapacağım. Hangi evrakları teslim etmem gerekiyor?",
+        "completion": "Bir öğrencinin Erasmus programı kapsamında yapacağı staj süreci için gerekli olan belgeleri ve evrakları öğrenmek istediği bir durumu ifade eder. Öğrenci, Erasmus stajı için gereken resmi belgelerin neler olduğunu ve bu belgeleri hangi tarihlerde ve nereye teslim etmesi gerektiğini öğrenmek ister. Bu soru, öğrencinin Erasmus stajı sürecini başlatırken gerekli hazırlıkları yapabilmesi ve gerekli prosedürleri yerine getirebilmesi için bilgi almak istediğini ifade eder."
+      },
+      {
+        "prompt": "Stajımı Erasmus ile yapacağım. Harç yatırmam gerekir mi?",
+        "completion": "Bir öğrencinin Erasmus programı kapsamında yapacağı staj sürecinde harç ödemesi yapması gerekip gerekmediğini öğrenmek istediği bir durumu ifade eder. Öğrenci, Erasmus stajı için harç ödemesi gerekip gerekmediğini ve bu konuda ne tür prosedürlerin uygulandığını öğrenmek ister. Bu soru, öğrencinin Erasmus stajı sürecini finansal açıdan planlamasına yardımcı olmak ve gereksiz harcamalardan kaçınmak için bilgi almak istediğini ifade eder."
+      },
+      {
+        "prompt": "İşyeri eğitimine gitmek için hangi dersleri seçeceğim?",
+        "completion": "2013 müfredatına tabi olan öğrenciler, YMT411 İşyeri Eğitimi dersini seçeceklerdir. 2016 müfredatına tabi olan öğrenciler ise, YMH411 İşyeri Eğitimi ve YMH417 İşyeri Eğitimi Uygulaması derslerini seçecektirler."
+      },
+      {
+        "prompt": "Daha önce stajlarını yapmadım. İşyeri eğitimine gidebilir miyim?",
+        "completion": "İşyeri eğitimine gidebilmek için stajlardan en az bir tanesinin yapılmış olması gerekmektedir."
+      },
+      {
+        "prompt": "Dördüncü sınıftayım. 10 ders alabilir miyim? Sistem 10 ders almama izin veriyor.",
+        "completion": "Dördüncü sınıfta öğrencilerin ders yükü 9’dur. Ancak, tüm derslerini bitirip, fazladan alınacak bir ders ile mezun olabilecek öğrencilere 10 ders verilebilmektedir."
+      },
+      {
+        "prompt": "Mezun oldum. Diplomayı nerden alacağım?",
+        "completion": "Mezun olan öğrenciler diplomalarını Fırat Üniversitesi Öğrenci İşlerinden alacaktır."
+      },
+      {
+        "prompt": "Ders kaydı yaparken hangi kodlu dersleri almam gerekiyor?",
+        "completion": "2016 yılı öncesinde bölümüze yerleşen öğrenciler YMT kodlu dersleri seçeceklerdir. 2016 sonrasında kayıt yapan öğrenciler ise YMH kodlu dersleri seçmektedirler."
+      },
+      {
+        "prompt": "Başka bir bölüm ya da fakülteden ders alabilir miyim?",
+        "completion": "Ortak dersler dışında başka bir bölüm ya da fakülteden ders alınmamaktadır."
+      },
+      {
+        "prompt": "Ders kaydı yaparken üst sınıftan ders alabilir miyim?",
+        "completion": "Öğrencinin bulunduğu sınıfın alt yarıyıllarından dersi varsa, üst yarıyıldan ders alamaz. İlk iki yarıyılı tamamlamak şartıyla, alt yarıyıllardan dersi olmayan öğrencilerden GNO (Genel Not Ortalaması)’su en az 2.50 olan öğrenciler, üst yarıyıldan en fazla üç ders alabilirler."
+      },
+      {
+        "prompt": "Bir dönemde en fazla kaç ders alabilirim?",
+        "completion": "Öğrencilerin bir yarıyıldaki ders yükü, öğrencinin talebi ve danışmanın onayı ile en fazla üç ders arttırılabilir. Ders yüklerine bölümün resmi web sayfasından erişilebilir."
+      },
+      {
+        "prompt": "Bitirme projesini herhangi bir dönem alabilir miyim?",
+        "completion": "Bitirme projesi dördüncü sınıfın ders döneminde alınmaktadır. İşyeri eğitimi döneminde ise, bitirme projesi daha önceden alınmış ve başarısız olunmuşsa alınabilir."
+      },
+      {
+        "prompt": "Yazılım Mühendisliği bölümünün ders programını görebilir miyim?",
+        "completion": "Bölüm web sitesindeki duyurular kısmındaki en güncel ders programı duyurusuna bakabilirsiniz."
+    },
+    {
+        "prompt": "Bir dersin içeriği hakkında nasıl bilgi alabilirim?",
+        "completion": "Dersin izlencesinde detaylı bilgi bulabilirsiniz."
+    },
+    {
+        "prompt": "Bir dersin ön koşulları nasıl öğrenebilirim?",
+        "completion": "Dersin izlencesinde ön koşullar belirtilmiştir."
+    },
+    {
+        "prompt": "Herhangi bir dersi veren öğretim üyesini nasıl öğrenebilirim?",
+        "completion": "Güncel ders programında ders veren öğretim üyeleri listelenir."
+    }
+  ]
+  
